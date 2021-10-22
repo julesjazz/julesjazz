@@ -10,7 +10,7 @@ Julia Silver // she/they // *aka "Jules"*
 I am currently seeking a fresh and passionate developer role.  
 
 ### `</>` Current Tech 
-Since completing my recent software engineering course, I am focusing on building and deplying creative web and mobile applications. 
+Since completing my recent software engineering course, I am focusing on building and deploying creative web and mobile applications. 
 - Core HTML / CSS / JavaScript 
 - Cloud hosting and deployment services
 - Modern web frameworks: React, Angular, and similar
@@ -36,6 +36,6 @@ I have also done a good bit of weekend and volunteer work in live performance an
 - Volunteering for tech and production work to Atlanta Pride 🏳️‍🌈 and DragonCon.
 
 
-Thank you for vising, and please check the resume link above if you'd like to reach out!
+Thank you for visiting, and please check the resume link above if you'd like to reach out!
 
 🙈🙉🙊
