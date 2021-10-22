@@ -9,26 +9,26 @@ Julia Silver // she/they // *aka "Jules"*
 ## About Me 🎶
 I am currently seeking a fresh and passionate developer role.  
 
-### Current Tech `</>`
+### `</>` Current Tech 
 Since completing my recent software engineering course, I am focusing on building and deplying creative web and mobile applications. 
 - Core HTML / CSS / JavaScript 
 - Cloud hosting and deployment services
 - Modern web frameworks: React, Angular, and similar
 - And more to come soon...
 
-### Most Recently 🚢
+### 🚢 Most Recently 
 As of Fall 2021, I have completed a software engineering immersive course with General Assembly. This is a career shift from operations to development, and I'm super excited!  
 
 For the sake of keeping my primary github repo tidy, I have moved my classwork projects to their own organization here: [github/julesjazz-classwork](https://github.com/julesjazz-classwork)
 
-### Prior Work 📞
+### 📞 Prior Work 
 I've been in tech careers some time. I started with a degree in electronics and telecommunications and worked my way into a variety of VOIP, Network, and Systems engineering and analyst roles.    
 
 My most recent role was as a linux systems analyst and marine network specialist for the US Antarctic Program. Before that, I had a variety of Network and VoIP roles, mostly managing global or regional enterprise communications.  
 
 I have also done a good bit of weekend and volunteer work in live performance and production, including: live music performance, dance performance and choreography, dance instruction, 
 
-### Some Career Highlights
+### 🔥 Some Career Highlights 
 - Working on OpenRVDAS systems and storage for science research
 - Installing a new sat dish on an Antarctic ice breaker
 - Building, deploying, and project-managing multiple international voice network installs with thousands of end points
