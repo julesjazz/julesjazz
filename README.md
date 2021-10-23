@@ -36,6 +36,6 @@ I have also done a good bit of weekend and volunteer work in live performance an
 - Volunteering for tech and production work to Atlanta Pride 🏳️‍🌈 and DragonCon.
 
 
-Thank you for visiting, and please check the resume link above if you'd like to reach out!
+Thank you for visiting, and please check out [my current resume](https://docs.google.com/document/d/1iA91oAfNkwkAsTC2YwOPPMvsINR_tnbhHY2as2d-9sc/edit?usp=sharing) if you'd like to reach out to me!
 
 🙈🙉🙊
