@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets/attachments"
+}

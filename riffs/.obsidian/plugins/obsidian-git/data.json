@@ -1,0 +1,15 @@
+{
+  "commitMessage": "notes_update: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": "../.git",
+  "customMessageOnAutoBackup": false
+}
