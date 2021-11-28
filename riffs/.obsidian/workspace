@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_inbox/fireship_next-firebase.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_inbox/fireship_next-firebase.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_inbox/fireship_next-firebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_inbox/fireship_next-firebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "bf7d186c021c8a91",
   "lastOpenFiles": [
-    "README.md",
     "_inbox/fireship_next-firebase.md",
+    "README.md",
     "_journal/jrnl_2021-11-28.md",
     "drawings/exdrw_20211128142020.excalidraw.md",
     "assets/templates/tplt_drawing.excalidraw.md",
