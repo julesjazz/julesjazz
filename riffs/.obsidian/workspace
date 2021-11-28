@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_journal/jrnl_2021-11-28.md",
             "mode": "source"
           }
         }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_journal/jrnl_2021-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_journal/jrnl_2021-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_journal/jrnl_2021-11-28.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "bf7d186c021c8a91",
   "lastOpenFiles": [
+    "_journal/jrnl_2021-11-28.md",
     "README.md",
-    "_journal/2021-11-28.md",
     "drawings/exdrw_20211128142020.excalidraw.md",
     "assets/templates/tplt_drawing.excalidraw.md",
     "assets/templates/tplt_ztl.md",

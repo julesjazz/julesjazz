@@ -2,7 +2,7 @@
   "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
   "showUnsupportedFiles": true,

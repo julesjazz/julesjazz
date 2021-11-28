@@ -1,4 +1,5 @@
 {
   "folder": "journal",
-  "template": "assets/templates/tplt_journal"
+  "template": "assets/templates/tplt_journal",
+  "format": "\\j\\r\\n\\l_YYYY-MM-DD"
 }
