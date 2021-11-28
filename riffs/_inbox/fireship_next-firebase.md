@@ -31,4 +31,6 @@
 	}
 	```
 
-- 
+
+## Typescript
+1. make `./tsconfig.json`, `yarn`, `yarn dev`
