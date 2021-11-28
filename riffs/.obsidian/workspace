@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_journal/jrnl_2021-11-28.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -55,6 +55,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "25f9aabbe69b85f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
         ]
       },
@@ -74,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 356.5
   },
   "right": {
     "id": "62de1f1dd9eb83c9",
@@ -91,8 +101,20 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "9dd33a8c2454077e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6e3cb69c505622fb",
@@ -104,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/jrnl_2021-11-28.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,30 +143,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/jrnl_2021-11-28.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9dd33a8c2454077e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "25f9aabbe69b85f2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_journal/jrnl_2021-11-28.md"
               }
             }
           }
@@ -152,12 +153,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "active": "bf7d186c021c8a91",
   "lastOpenFiles": [
-    "_journal/jrnl_2021-11-28.md",
     "README.md",
+    "_inbox/fireship_next-firebase.md",
+    "_journal/jrnl_2021-11-28.md",
     "drawings/exdrw_20211128142020.excalidraw.md",
     "assets/templates/tplt_drawing.excalidraw.md",
     "assets/templates/tplt_ztl.md",
