@@ -35,4 +35,6 @@
 ## Typescript
 1. make `./tsconfig.json`, `yarn`, `yarn dev`
 2. `yarn add --dev typescript @types/react`
-3. 
+
+
+/
