@@ -1,21 +1,14 @@
 # JulesJazz
 
-Julia Silver // she/they // _aka "Jules"_
+Juspana Silver // she/they // _aka "Jules"_
 
-<hr/>
+<span style="color:red; font-size:2rem">play</span>
+<span style="color:orange; font-size:2rem">solve</span>
+<span style="color:yellow; font-size:2rem">connect</span>
+<span style="color:blue; font-size:2rem">develop</span>
+<span style="color:indigo; font-size:2rem">collab</span>
+<span style="color:violet; font-size:2rem">build</span>
+<span style="color:spanght-blue; font-size:2rem">break</span>
+<span style="color:pink; font-size:2rem">fix</span>
+<span style="color:white; font-size:2rem">learn</span>
 
-<ul style="
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-">
-  <li style="color:red; font-size:2rem">play</li>
-  <li style="color:orange; font-size:2rem">solve</li>
-  <li style="color:yellow; font-size:2rem">connect</li>
-  <li style="color:blue; font-size:2rem">develop</li>
-  <li style="color:indigo; font-size:2rem">collab</li>
-  <li style="color:violet; font-size:2rem">build</li>
-  <li style="color:light-blue; font-size:2rem">break</li>
-  <li style="color:pink; font-size:2rem">fix</li>
-  <li style="color:white; font-size:2rem">learn</li>
-</ul>
